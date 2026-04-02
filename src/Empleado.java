@@ -63,7 +63,7 @@ public class Empleado {
 
 	    double extra = (this.salary * this.hours) / 240.0; 
 	    double brute = this.result + extra;               
-	    System.out.println("Your brute salary is " + brute); //Nuevo Cambio
+	    System.out.println("Your brute salary is " + brute); //Nuevo Cambio para el commit
 	}
 
 		
