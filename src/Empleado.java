@@ -44,7 +44,7 @@ public class Empleado {
 	}
 	
 	public void Afiliation () {
-		System.out.print("Please type AFP or ONP for your afiliation: ");
+		System.out.print("Please type AFP or ONP for your afiliation:");
 		this.afiliation = teclado.nextLine();
 	}
 	
